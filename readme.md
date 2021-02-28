@@ -11,7 +11,13 @@ You can choose from 4 color variations, depending on what fits best to your own 
 * `*-color-inverted.svg` - color icon and white font for dark backgrounds
 * `*-bw-inverted.svg` - black/white icon & font for dark backgrounds
 
-![Overview](examples/embed-logo-overview.pdf)
+
+<p align="center">
+<img alt="embed-logo-overview"
+src="https://github.com/eeditiones/logos/blob/master/examples/embed-logo-overview.png" />
+</p>
+
+[See PDF with logo overview](examples/embed-logo-overview.pdf)
 
 The images have no background-color included, but if needed, e.g. if the contrast of the original background and the logo colors is too poor, you can apply a suitable background-color for the wrapping `<a>` element.  
 
