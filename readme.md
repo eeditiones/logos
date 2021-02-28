@@ -17,7 +17,7 @@ You can choose from 4 color variations, depending on what fits best to your own 
 src="https://github.com/eeditiones/logos/blob/master/examples/embed-logo-overview.png" />
 </p>
 
-[See PDF with logo overview](examples/embed-logo-overview.pdf)
+[See high resolution PDF with logo overview](examples/embed-logo-overview.pdf)
 
 The images have no background-color included, but if needed, e.g. if the contrast of the original background and the logo colors is too poor, you can apply a suitable background-color for the wrapping `<a>` element.  
 
