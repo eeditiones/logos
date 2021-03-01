@@ -1,8 +1,8 @@
 # E-Editiones logos and design 
 
-## How to embed the "Powered by e-editiones" logo
+## How to embed the E-Editiones logo
 
-There are two ways of embedding the e-editiones logo on your homepage, as an html image tag importing an SVG file, or entirely as inline SVG.
+There are two ways of embedding the E-Editiones logo on your homepage, as an html image tag importing an SVG file, or entirely as inline SVG.
 
 You can choose from 4 color variations, depending on what fits best to your own layout:  
 
