@@ -7,7 +7,7 @@ There are two ways of embedding the E-Editiones logo on your homepage, as an htm
 You can choose from 4 color variations, depending on what fits best to your own layout:  
 
 * `*-color.svg` - color icon and dark font for light backgrounds
-* `*-bw-inverted.svg` - black/white icon & font for light backgrounds
+* `*-bw.svg` - black/white icon & font for light backgrounds
 * `*-color-inverted.svg` - color icon and white font for dark backgrounds
 * `*-bw-inverted.svg` - black/white icon & font for dark backgrounds
 
